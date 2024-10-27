@@ -7,8 +7,6 @@ We are a team of 5 Computer Science students and 1 Designer. 5 of us have experi
 
 ---
 
-# SOS: Symphony of Seismics
-
 
 ## High-Level Summary
 
