@@ -1,4 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SOS:%20Symphony%20of%20Seismics&desc=2024%20NASA%20Space%20App%20Challenge&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SOS:%20Symphony%20of%20Seismics&desc=2024%20NASA%20Space%20App%20Challenge&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50)
+
 
 # About the Team
 
