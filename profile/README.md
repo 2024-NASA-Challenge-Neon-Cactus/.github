@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SOS:%20Symphony%20of%20Seismics&desc=2024%20NASA%20Space%20App%20Challenge&fontAlign=50&fontAlignY=40&color=gradient)
+
 # About the Team
 
 We are a team of 5 Computer Science students and 1 Designer. 5 of us have experience as Visiting Scholars at Purdue University, USA! Let’s create something amazing together and have a great time doing it!
